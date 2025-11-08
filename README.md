@@ -1,7 +1,9 @@
-### Hi there vistor
+## ⚙️ Building systems. Breaking boundaries. Buzzing on caffeine.
 
-  My name is John Neijzen. i am hobbyist coder and make randoms programs for work, for other , and my self from time to time
+Full-stack developer running on **Python**, **PHP**, **Laravel**, **Lua**, **Flutter** — and a dangerously high energy-drink tolerance.
 
-### What do i do 
+I build during the day, break things at night, and occasionally fix what I broke yesterday.  
+If it compiles, it ships. If it crashes, I call it a feature.
 
-  I do Web Dev, App Dev , Desktop Applications, Maintance on some projects , PC and Phone Repair, and Scripting for time to time
+🚀 **Red Bull for breakfast, Monster for lunch, Extra Joss for debugging.**  
+Curiosity is my fuel, caffeine is my religion.  
